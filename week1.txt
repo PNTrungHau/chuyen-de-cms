@@ -1,0 +1,2 @@
+Day la file week1.txt
+thuoc : week1 va main
