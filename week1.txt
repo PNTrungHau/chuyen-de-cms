@@ -1,2 +1,2 @@
 Day la file week1.txt
-thuoc : file main ben file test
+thuoc : file main ben file test.
