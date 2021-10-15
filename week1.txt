@@ -1,2 +1,2 @@
 Day la file week1.txt
-thuoc : file main
+thuoc : file main của main
